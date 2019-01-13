@@ -14,7 +14,7 @@ int main()
 for (int i = 0; i < str.length(); i++)
 {
     char c = str[i];
-    //OR printer per line by adding a \n like this: printf("%c\n", c);
+    //OR print per line by adding a \n like this: printf("%c\n", c);
     printf("%c", c);
 	Sleep(50);
 }
